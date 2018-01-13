@@ -15,7 +15,7 @@ The purpose of this repo is to provide references to functions, bots and apps (r
 
 Markdown editor that allows you to preview revealjs slideshows as you go. Super simple; copy and paste markdown to whereever needed once done.
 
-[![Build Status](https://travis-ci.org/mottaquikarim/rehearsal.svg?branch=master)](https://travis-ci.org/mottaquikarim/rehearsal)
+[![Build Status](https://travis-ci.org/mottaquikarim/rehearsal.svg?branch=master)](https://travis-ci.org/mottaquikarim/rehearsal) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/rehearsal/badge.svg?branch=master)](https://coveralls.io/github/mottaquikarim/rehearsal?branch=master)
 
 ## TYPES
 
