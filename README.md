@@ -15,6 +15,8 @@ The purpose of this repo is to provide references to functions, bots and apps (r
 
 Markdown editor that allows you to preview revealjs slideshows as you go. Super simple; copy and paste markdown to whereever needed once done.
 
+[![Build Status](https://travis-ci.org/mottaquikarim/rehearsal.svg?branch=master)](https://travis-ci.org/mottaquikarim/rehearsal)
+
 ## TYPES
 
 *List of defined service types*
