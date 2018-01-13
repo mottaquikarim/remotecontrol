@@ -8,3 +8,5 @@
 4. Submit PR against main repo.
 5. ???
 6. Profit.
+
+Thanks for playing!
