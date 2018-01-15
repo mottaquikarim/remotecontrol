@@ -21,7 +21,7 @@ Markdown editor that allows you to preview revealjs slideshows as you go. Super 
 ### [Pod](https://github.com/mottaquikarim/pod)
 **TYPE**: BOT
 
-Daily, automated problem of the day slack notifications.
+Simple serverless script that will post a practice problem to a prespecified slack channel daily.
 
 [![Build Status](https://travis-ci.org/mottaquikarim/pod.svg?branch=master)](https://travis-ci.org/mottaquikarim/pod) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/pod/badge.svg?branch=master&foo=bar)](https://coveralls.io/github/mottaquikarim/pod?branch=master)
 
