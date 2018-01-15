@@ -17,6 +17,15 @@ Markdown editor that allows you to preview revealjs slideshows as you go. Super 
 
 [![Build Status](https://travis-ci.org/mottaquikarim/rehearsal.svg?branch=master)](https://travis-ci.org/mottaquikarim/rehearsal) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/rehearsal/badge.svg?branch=master)](https://coveralls.io/github/mottaquikarim/rehearsal?branch=master)
 
+
+### [Pod](https://github.com/mottaquikarim/pod)
+**TYPE**: BOT
+
+Daily, automated problem of the day slack notifications.
+
+[![Build Status](https://travis-ci.org/mottaquikarim/pod.svg?branch=master)](https://travis-ci.org/mottaquikarim/pod) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/pod/badge.svg?branch=master&foo=bar)](https://coveralls.io/github/mottaquikarim/pod?branch=master)
+
+
 ## TYPES
 
 *List of defined service types*
