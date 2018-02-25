@@ -26,6 +26,11 @@ Simple serverless script that will post a practice problem to a prespecified sla
 [![Build Status](https://travis-ci.org/mottaquikarim/pod.svg?branch=master)](https://travis-ci.org/mottaquikarim/pod) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/pod/badge.svg?branch=master&foo=bar)](https://coveralls.io/github/mottaquikarim/pod?branch=master)
 
 
+### [ContnetConverter](https://github.com/mottaquikarim/contentconverter)
+**TYPE**: SCRIPT
+
+Converts Markdown webpage content to revealjs format (configurable). Outputs folderstructure and readme that can be pushed to a github repo. **[Example](https://github.com/mottaquikarim/FEWDRemote)**: links and folder structure were generated from this script.
+
 ## TYPES
 
 *List of defined service types*
@@ -34,5 +39,6 @@ Simple serverless script that will post a practice problem to a prespecified sla
 
 * **BOT**: Text bots or Slack related commands, interactive and deployed to a function (ie: AWS Lambda, Webtask, etc)
 
+* **SCRIPT**: Utility scripts for converting between formats, etc. Usually one off but may contain classes / implementations that are useful for generic cases.
 
 ## [LICENSE](https://github.com/mottaquikarim/remotecontrol/blob/master/LICENSE)
