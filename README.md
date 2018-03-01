@@ -31,6 +31,11 @@ Simple serverless script that will post a practice problem to a prespecified sla
 
 Converts Markdown webpage content to revealjs format (configurable). Outputs folderstructure and readme that can be pushed to a github repo. **[Example](https://github.com/mottaquikarim/FEWDRemote)**: links and folder structure were generated from this script.
 
+### [AttendanceBot](https://github.com/mottaquikarim/attendancebot)
+**TYPE**: BOT
+
+Simple serverless automated attendance checker via slack.
+
 ## TYPES
 
 *List of defined service types*
