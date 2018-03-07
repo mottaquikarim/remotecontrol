@@ -26,7 +26,7 @@ Simple serverless script that will post a practice problem to a prespecified sla
 [![Build Status](https://travis-ci.org/mottaquikarim/pod.svg?branch=master)](https://travis-ci.org/mottaquikarim/pod) [![Coverage Status](https://coveralls.io/repos/github/mottaquikarim/pod/badge.svg?branch=master&foo=bar)](https://coveralls.io/github/mottaquikarim/pod?branch=master)
 
 
-### [ContnetConverter](https://github.com/mottaquikarim/contentconverter)
+### [ContentConverter](https://github.com/mottaquikarim/contentconverter)
 **TYPE**: SCRIPT
 
 Converts Markdown webpage content to revealjs format (configurable). Outputs folderstructure and readme that can be pushed to a github repo. **[Example](https://github.com/mottaquikarim/FEWDRemote)**: links and folder structure were generated from this script.
