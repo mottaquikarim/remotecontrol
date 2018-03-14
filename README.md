@@ -36,6 +36,11 @@ Converts Markdown webpage content to revealjs format (configurable). Outputs fol
 
 Simple serverless automated attendance checker via slack.
 
+### [ExitticketBot](https://github.com/mottaquikarim/exitticketbot)
+**TYPE**: BOT
+
+Automated exit ticket prompt via Slack.
+
 ## TYPES
 
 *List of defined service types*
